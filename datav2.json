@@ -1,0 +1,105 @@
+{
+    "ServerStats": {
+        "membercount": 13682,
+        "rolecount": 242,
+        "boosts": 82,
+        "twilights": 11,
+        "channel": 172,
+        "bans": 2565,
+        "days": 269,
+        "bots": 30
+    },
+    "Team": {
+        "Ace": {
+            "name": "Acee",
+            "discriminator": "9474",
+            "name_format": "Acee#9474",
+            "Avatar": "https://cdn.discordapp.com/avatars/333177613365411851/a_9a1bc03870d0c3d3524c97697745a571.gif?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Reiswafl": {
+            "name": "Reiswafl",
+            "discriminator": "0756",
+            "name_format": "Reiswafl#0756",
+            "Avatar": "https://cdn.discordapp.com/avatars/373532043050483722/1a617d2820fda6b229b68bbe6b0c8e28.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Penmon": {
+            "name": ".Penmon",
+            "discriminator": "1076",
+            "name_format": ".Penmon#1076",
+            "Avatar": "https://cdn.discordapp.com/avatars/170826583303520256/bd029319899e6348ccea068ede902e7a.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "azra": {
+            "name": "azra \u2661",
+            "discriminator": "0143",
+            "name_format": "azra \u2661#0143",
+            "Avatar": "https://cdn.discordapp.com/avatars/877517471131766794/edfe9cf69d78f9861f257fc9bf1d68bb.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "LIV": {
+            "name": "LIV",
+            "discriminator": "9705",
+            "name_format": "LIV#9705",
+            "Avatar": "https://cdn.discordapp.com/avatars/722904671051710515/af37c245be5835f22f26636f6e11c652.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "luca": {
+            "name": "hiroyukisu",
+            "discriminator": "2750",
+            "name_format": "hiroyukisu#2750",
+            "Avatar": "https://cdn.discordapp.com/avatars/355004590602846208/fef414781138f9d05c5e3e566dc8ee9d.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "caro": {
+            "name": "caro<3",
+            "discriminator": "7399",
+            "name_format": "caro<3#7399",
+            "Avatar": "https://cdn.discordapp.com/avatars/463048285142253578/958f7ea6765bba3cdabc296e2c4518e7.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Max": {
+            "name": "Max\u30c5",
+            "discriminator": "6261",
+            "name_format": "Max\u30c5#6261",
+            "Avatar": "https://cdn.discordapp.com/avatars/707879541187674145/d50d8662510c84633415381ef76e4c78.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Picosohn": {
+            "name": "Picosohn",
+            "discriminator": "4263",
+            "name_format": "Picosohn#4263",
+            "Avatar": "https://cdn.discordapp.com/avatars/826774260986806304/fbb0e2ffbbb6de7e21555d13b9898853.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "kasumi": {
+            "name": "kasumi\u1449\u00b3",
+            "discriminator": "5477",
+            "name_format": "kasumi\u1449\u00b3#5477",
+            "Avatar": "https://cdn.discordapp.com/avatars/778977317992267776/a_b24ab7cc4c1728fde7bc9251101553bb.gif?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Paulus": {
+            "name": "Paulus",
+            "discriminator": "1018",
+            "name_format": "Paulus#1018",
+            "Avatar": "https://cdn.discordapp.com/avatars/739564007702134889/aab45555c4cd548537d60ad5fd678ca9.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Teejay": {
+            "name": "Teejay",
+            "discriminator": "8888",
+            "name_format": "Teejay#8888",
+            "Avatar": "https://cdn.discordapp.com/avatars/862472570577354763/4aac52273daeb54e566b70a3204733c5.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        },
+        "Amelie": {
+            "name": "Watch my fat ass sasuke",
+            "discriminator": "6306",
+            "name_format": "Watch my fat ass sasuke#6306",
+            "Avatar": "https://cdn.discordapp.com/avatars/753600013908836363/5129df03f33b30aaf179f4d9bc4b33f0.png?size=256",
+            "Banner": "Kein Banner Vorhanden"
+        }
+    }
+}
