@@ -103,7 +103,7 @@ async def forceupdate(ctx):
                     "\n"
                     "Available on: `https://twilightdawnapi.pagekite.me/api/v1/serverinfo`"
     )
-    embed.set_footer(icon_url=url, text="Developed by kiisuhh#2750 | hosted by lunox")
+    embed.set_footer(icon_url=url, text="Developed by hiroyukisu#2750 | hosted by lunox")
 
     await ctx.reply(embed=embed)
 
